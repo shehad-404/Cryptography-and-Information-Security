@@ -7,7 +7,7 @@
 ## 0.Additive Cipher
 - Code: [here](https://github.com/shehad-404/Cryptography-and-Information-Security/blob/main/0.Additive_Cipher.ipynb)
 - Output:
-Given plaintext:  Cryptography And Information Security
+**Given plaintext:  Cryptography And Information Security
 Entered key :  13
 Ciphertext:  pelcgbtencul naq vasbezngvba frphevgl
-Decrypted plaintext:  CRYPTOGRAPHY AND INFORMATION SECURITY
+Decrypted plaintext:  CRYPTOGRAPHY AND INFORMATION SECURITY**
